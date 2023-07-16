@@ -5,7 +5,7 @@ import java.util.Locale;
 import java.util.PriorityQueue;
 import java.util.Scanner;
 
-public class Client {
+public class ClientPrimeiroDesafio {
     public static void main(String[] args) {
         ProcessClearTerminal process = ProcessClearTerminal.getInstanceProcessClearTerminal();
         process.clear();
